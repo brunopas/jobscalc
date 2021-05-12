@@ -64,6 +64,9 @@ $ cd src
 # Instale as dependências
 $ npm install
 
+# Execute o script do banco de dados
+$ npm run init-db
+
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 
