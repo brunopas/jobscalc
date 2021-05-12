@@ -7,8 +7,8 @@
 </h4>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre o Projeto</a> •
- <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades do Projeto</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar">Como Executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -17,14 +17,14 @@
 </p>
 
 
-## 💻 Sobre o Projeto
+## 💻 Sobre
 O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir Jobs (projetos), obtendo uma estimativa de custo de cada Job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
 
 Projeto desenvolvido durante a **Maratona Discover 02** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 
 ---
 
-## ⚙️ Funcionalidades
+## ⚙️ Funcionalidades do Projeto
 
 - Dashboard (quantidade de Jobs, Jobs em andamento, Jobs encerrados, etc)
 - Meu Perfil (quantidade de horas trabalhadas por mês, quantidade de férias (semanas) por mês, etc)
