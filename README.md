@@ -8,7 +8,7 @@
 
 <p align="center">
  <a href="#-sobre">Sobre</a> •
- <a href="#-funcionalidades-do-projeto">Funcionalidades do Projeto</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar">Como Executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -24,7 +24,7 @@ Projeto desenvolvido durante a **Maratona Discover 02** oferecida pela [Rocketse
 
 ---
 
-## ⚙️ Funcionalidades do Projeto
+## ⚙️ Funcionalidades
 
 - Dashboard (quantidade de Jobs, Jobs em andamento, Jobs encerrados, etc)
 - Meu Perfil (quantidade de horas trabalhadas por mês, quantidade de férias (semanas) por mês, etc)
