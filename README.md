@@ -18,7 +18,7 @@
 
 
 ## 💻 Sobre
-O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir Jobs (projetos), obtendo uma estimativa de custo de cada Job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
+O JobsCalc é uma aplicação que calcula o valor de projetos Freelancer, onde é possível cadastrar e excluir Jobs (projetos), obtendo uma estimativa de custo para cada Job. Além disso, é possível traçar o valor/hora do usuário do sistema.
 
 Projeto desenvolvido durante a **Maratona Discover 02** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 
@@ -26,9 +26,10 @@ Projeto desenvolvido durante a **Maratona Discover 02** oferecida pela [Rocketse
 
 ## ⚙️ Funcionalidades
 
-- Dashboard (quantidade de Jobs, Jobs em andamento, Jobs encerrados, etc)
-- Meu Perfil (quantidade de horas trabalhadas por mês, quantidade de férias (semanas) por mês, etc)
-- Cadastro de Jobs (cadastrar as informações de cada Job e se necessário alterar essas mesmas informações)
+- Dashboard
+- Meu Perfil
+- Cadastro / Alteração de Jobs
+- Exclusão de Jobs
 
 ---
 
@@ -36,10 +37,15 @@ Projeto desenvolvido durante a **Maratona Discover 02** oferecida pela [Rocketse
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+<p align="center"><b>Dashboard</b></p>
 <img alt="JobsCalc" title="#JobsCalc" src="./docs/screenshots/dashboard.index.png" />
+<p align="center"><b>Meu Prrfil</b></p>
 <img alt="JobsCalc" title="#JobsCalc" src="./docs/screenshots/user.profile.png" />
+<p align="center"><b>Adicionar Job</b></p>
 <img alt="JobsCalc" title="#JobsCalc" src="./docs/screenshots/job.new.png" />
+<p align="center"><b>Editar Job</b></p>
 <img alt="JobsCalc" title="#JobsCalc" src="./docs/screenshots/job.edit.png" />
+<p align="center"><b>Excluir Job</b></p>
 <img alt="JobsCalc" title="#JobsCalc" src="./docs/screenshots/dashboard.delete.png" />
 
 ---
