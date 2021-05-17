@@ -1,7 +1,6 @@
 {
   "name": "jobscals",
   "version": "1.0.0",
-  "description": "Freelance Calculator",
   "main": "src/server.js",
   "scripts": {
     "dev": "nodemon .",
